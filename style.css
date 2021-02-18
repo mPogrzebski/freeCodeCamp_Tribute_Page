@@ -1,0 +1,74 @@
+* {
+   box-sizing: border-box;
+   margin: 0;
+
+   font-size: 20px;
+}
+
+h1 { 
+  
+  font-size: 2rem;
+}
+
+h3 { 
+  font-size:1.1rem;
+  display:box;
+  background-color: rgb(203, 223, 189);
+  
+}
+
+#main {
+  margin: auto;
+  text-align: center;
+
+}
+
+#title {
+  margin: auto;
+  background-color: rgb(203, 223, 189);
+  padding:30px 20px;
+}
+
+#img-div {
+    margin: 20px auto 20px auto;
+}
+
+#image {
+  margin: auto;
+   max-width: 100%;
+   display: block;
+}
+
+#img-caption {
+  
+}
+
+#timeline-title {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+#tribute-info {
+  background-color: rgb(203, 223, 189);
+  margin: 30px auto;
+  padding:20px;
+}
+
+#tribute-link {
+  
+}
+
+ul {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+li {
+  margin:20px auto; 
+}
+
+footer{
+  padding: 30px;
+
+}
